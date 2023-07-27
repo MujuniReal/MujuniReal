@@ -20,20 +20,18 @@ Here are some ideas to get you started:
          width="45" /> I'm Mujuni</h1>
 
 # 💫 About Me :
-- 💞️  I love startups and Innovations
-- 🌱 I’m currently learning more about blockcain and Pychology 
-- 🔭 I’m looking to collaborate on anything cool
-- 💬 Ask me about design or any tech-related stuff.
+- 🔭 I’m currently working on an Operating system
+- 🌱 I’m currently learning about operating system kernels and compilers
   
 ## 💳 Github Profile Summary Card
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MujuniReal&theme=vue"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MujuniReal&theme=dark"/>
 </p>
 
   ## 📟 GitHub Stats
 <p align="center">
-	<img width="48%" src="https://github-readme-stats.vercel.app/api?username=MujuniReal&show_icons=true&theme=vue" />
-	<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=MujuniReal&theme=vue" />
+	<img width="48%" src="https://github-readme-stats.vercel.app/api?username=MujuniReal&show_icons=true&theme=dark" />
+	<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=MujuniReal&theme=dark" />
 </p>
 
 ### ✍️Random Dev Quote
