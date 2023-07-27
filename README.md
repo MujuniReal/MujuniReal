@@ -35,8 +35,8 @@ Here are some ideas to get you started:
 </p>
 
 <p align="center">
-	<img width="48%" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MujuniReal&theme=monokai" />
-	<img width="48%" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MujuniReal&theme=monokai"/>
+	<img width="48%" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MujuniReal&theme=vue" />
+	<img width="48%" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MujuniReal&theme=vue"/>
  </p>
 
 ### ✍️Random Dev Quote
