@@ -25,13 +25,13 @@ Here are some ideas to get you started:
   
 ## 💳 Github Profile Summary Card
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MujuniReal&theme=dark"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MujuniReal&theme=monokai"/>
 </p>
 
   ## 📟 GitHub Stats
 <p align="center">
-	<img width="48%" src="https://github-readme-stats.vercel.app/api?username=MujuniReal&show_icons=true&theme=dark" />
-	<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=MujuniReal&theme=dark" />
+	<img width="48%" src="https://github-readme-stats.vercel.app/api?username=MujuniReal&show_icons=true&theme=monokai" />
+	<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=MujuniReal&theme=monokai" />
 </p>
 
 ### ✍️Random Dev Quote
