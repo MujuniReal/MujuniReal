@@ -34,12 +34,9 @@ Here are some ideas to get you started:
 	<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=MujuniReal&theme=monokai" />
 </p>
 
-<p>
-	![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MujuniReal&theme=monokai) 
- </p>
-
- <p>
-	![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MujuniReal&theme=monokai) 
+<p align="center">
+	<img width="48%" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MujuniReal&theme=monokai" />
+	<img width="48%" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MujuniReal&theme=monokai"/>
  </p>
 
 ### ✍️Random Dev Quote
